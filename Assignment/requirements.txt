@@ -8,3 +8,9 @@ scipy==1.15.2
 alibi==0.9.6
 lime==0.2.0.1
 ipython==7.34.0
+xgboost==3.0.0
+catboost==1.2.8
+lightgbm==4.6.0
+dpcpp-cpp-rt==2025.1.1
+scikit-learn-intelex==2025.5.0
+ipykernel==6.29.5
